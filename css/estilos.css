@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Goldman:wght@400;700&display=swap');
+
+* {
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Goldman', cursive;
+    color: white;
+
+}
+
+.tunear_nav {
+    background-color: #743DFF;
+}
+
+.sec_origenes {
+    background-color: #FA3E0A;
+    padding: 2em;
+
+}
+
+.sec_ofer {
+    background-color: #E3090D;
+    padding:2em;
+}
+
+.fondoBlanco {
+    width: 100%;
+    height: 50%;
+    background-color: white;
+
+}
+
+.titulos {
+    text-align: center;
+}
+
+.parrafos {
+    text-align: justify;
+}
+
+.ajustar_logo {
+    display: flex;
+    align-items: center;    
+    justify-content: center;
+    background-color: #FA16C9;
+    padding-top:0.5em;
+}
+
+.ajustar_logo img {
+    height: 50px;
+    width: 60px;
+}
+
+.team_ajust {
+    display: flex;
+    justify-content: center;
+    background-color: #A209E3;
+    padding-top: 0.5em;
+    padding-bottom: 1.5em;
+}
+
+.team_ajust img {
+    border: solid 0.2em #E3090D;
+    padding: 0.2em;
+}
